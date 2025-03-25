@@ -109,6 +109,7 @@ const MobileIcon = styled.div`
 `;
 
 const MobileMenu = styled.ul`
+
   width: 100%;
   display: flex;
   flex-direction: column;

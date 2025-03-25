@@ -313,7 +313,7 @@ export const projects = [
       "JavaScript",
     ],
     category: "web app",
-    // github: "https://github.com/rishavchanda/DecisionHub",
+    github: "https://github.com/rishavchanda/DecisionHub",
     webapp: "https://proj-multiio.vercel.app/",
   }, 
   {
@@ -322,8 +322,8 @@ export const projects = [
     date: "Nov 2024",
     description:
       "Developed a collaborative, user-friendly appointment scheduling website that improved hospital booking efficiency, reducing scheduling time by 30% and enhancing patient experience.",
-    // image:
-    //   "",
+      image:
+      "https://drive.google.com/file/d/1bLpYRw3X_haByKRRZTzvthxv1vndxKAN/view?usp=sharing",
     tags: [
       "React Js",
       "MongoDb",
