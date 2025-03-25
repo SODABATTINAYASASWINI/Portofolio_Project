@@ -111,6 +111,7 @@ const ProjectCard = ({ project, setOpenModal }) => {
         {project.tags?.map((tag, index) => (
           <Tag>{tag}</Tag>
         ))}
+        
       </Tags>
       <Details>
         <Title>{project.title}</Title>
